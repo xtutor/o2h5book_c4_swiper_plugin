@@ -40,7 +40,7 @@ module.exports = {
         {
           from: "src/img-compress",
           to: "img",
-          force: true,
+          force: false,
           ignore: [".gitkeep"]
         }
       ],
